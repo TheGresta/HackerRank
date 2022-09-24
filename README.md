@@ -12,9 +12,12 @@ HackerRank Challenge Solutions
 
 [Java(Basic)](https://www.hackerrank.com/certificates/7c3534dc8db4)
 
+[SQL (Intermediate)](https://www.hackerrank.com/certificates/2aba64fbec5b)
+
 ## Java
 * BigNumbers
 * Data Structures
+* Exception Handling
 * Introduction
 * Strings
 
@@ -25,3 +28,9 @@ HackerRank Challenge Solutions
 
 ## 30 Days of Code
 * #1
+
+## 10 Days of Statistics
+* #1
+
+## Mathematics
+* Fundamentals
